@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "delineateCatch": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:/scripts/Mydro/Examples/BRFS/Mydro/model/100m_SRTM.tif\"\r\n\"0\"\r\n\"E:\\scripts\\Mydro\\Examples\\BRFS\\Mydro\\model\\Outlets.shp\"\r\n\"E:\\scripts\\Mydro\\_ss\\20240825\\model\"\r\n\"0\"\r\n\"URBS\""
+    }
+  }
+}
